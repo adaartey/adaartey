@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @adaartey
 - 👀 I’m interested in neuroscience and artificial intelligence
-- 🌱 I’m currently learning software ingineering
+- 🌱 I’m currently learning software engineering
 - 💞️ I’m looking to collaborate with neuroscientist who use software in doing research and making medicine better
 - 📫 You can reach me at adaartey@gmail.com
 
